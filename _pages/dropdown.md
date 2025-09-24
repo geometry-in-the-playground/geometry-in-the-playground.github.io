@@ -1,13 +1,15 @@
 ---
 layout: page
-title: submenus
+title: Editions
 nav: true
-nav_order: 8
+nav_order: 2
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: 0th -- 2025
+    permalink: /0/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: 1st -- 2026
+    permalink: /1/
+  - title: 2nd -- 2027
+    permalink: /1/
 ---

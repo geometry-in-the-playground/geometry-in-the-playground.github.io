@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: subtitle
+subtitle: yearly workshop for young researchers in geometry
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: 
 
@@ -23,4 +23,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+The *Geometry in the Playground* workshop aims to bring together young researchers working in infinite-dimensional Riemannian geometry and related areas, including--but not limited to--shape analysis, fluid dynamics, geometric mechanics, and optimal transport.
+The goal of the workshop is to foster discussions on current research topics, collaboratively explore open problems, and stimulate the development of new research directions.
+Participants are encouraged to contribute in a variety of formats that best suit their work and interests, such as lectures, research talks, tutorials, or other interactive presentations, with a strong emphasis on communication formats that promote discussion and exchange among attendees.
+
 

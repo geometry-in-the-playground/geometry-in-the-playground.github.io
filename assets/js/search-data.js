@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -22,13 +22,6 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/2026/";
-              },
-            },{id: "dropdown-2nd-2027",
-              title: "2nd -- 2027",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/2027/";
               },
             },{id: "news-postal-horn-the-0th-edition-of-the-workshop-took-place-in-annecy",
           title: ':postal_horn:  The 0th edition of the workshop took place in Annecy!',

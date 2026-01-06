@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: yearly workshop for young researchers in geometry
+# subtitle: yearly workshop for young researchers in geometry
 
 profile:
   align: right
@@ -25,7 +25,10 @@ latest_posts:
 ---
 
 The *Geometry in the Playground* workshop aims to bring together young researchers working in infinite-dimensional Riemannian geometry and related areas, including--but not limited to--shape analysis, fluid dynamics, geometric mechanics, and optimal transport.
+
 The goal of the workshop is to foster discussions on current research topics, collaboratively explore open problems, and stimulate the development of new research directions.
+
 Participants are encouraged to contribute in a variety of formats that best suit their work and interests, such as lectures, research talks, tutorials, or other interactive presentations, with a strong emphasis on communication formats that promote discussion and exchange among attendees.
 
 
+For more information, contact Rayane Mouhli (`rayane.mouhli@math.cnrs.fr`) or Théo Dumont (`theo.dumont [at] univ-eiffel [dot] fr`).

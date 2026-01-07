@@ -31,4 +31,4 @@ The goal of the workshop is to foster discussions on current research topics, co
 Participants are encouraged to contribute in a variety of formats that best suit their work and interests, such as lectures, research talks, tutorials, or other interactive presentations, with a strong emphasis on communication formats that promote discussion and exchange among attendees.
 
 
-For more information, contact Théo Dumont (`theo.dumont[at]univ-eiffel[dot]fr`), Rayane Mouhli (`rayane.mouhli[at]math.cnrs[dot]fr`), Thomas Pierron (`thomas.pierron[at]ens-paris-saclay[dot]fr`), or Guillaume Sérieys (`guillaume.serieys[at]u-paris[dot]fr`) 
+**Contact:** `theo.dumont[at]univ-eiffel[dot]fr`, `rayane.mouhli[at]math.cnrs[dot]fr`, `thomas.pierron[at]ens-paris-saclay[dot]fr`, or `guillaume.serieys[at]u-paris[dot]fr`. 

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: GitP
 permalink: /
 # subtitle: yearly workshop for young researchers in geometry
 

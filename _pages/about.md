@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The *Geometry in the Playground* workshop aims to bring together young researchers working in infinite-dimensional Riemannian geometry and related areas, including--but not limited to--shape analysis, fluid dynamics, geometric mechanics, and optimal transport.
+The *Geometry in the Playground* workshop aims to bring together young researchers working in infinite-dimensional differential geometry and related areas, including--but not limited to--shape analysis, fluid dynamics, geometric mechanics, and optimal transport.
 
 The goal of the workshop is to foster discussions on current research topics, collaboratively explore open problems, and stimulate the development of new research directions.
 
